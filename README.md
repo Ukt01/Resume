@@ -1,8 +1,8 @@
 # UDIT THAKUR
 ## ASP .NET DEVELOPER AND WEB DESIGNER
 **Thane, Maharashtra**
-**Phone:** 9833378348
-**Email:** thakuruditkumar8348@gmail.com
+**Phone:** 9833378348<br>
+**Email:** thakuruditkumar8348@gmail.com <br>
 **LinkedIn:** [www.linkedin.com/in/ukt01](www.linkedin.com/in/ukt01)
 
 ### SUMMARY
