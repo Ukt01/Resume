@@ -27,16 +27,14 @@ Experienced Software Engineer skilled in designing and developing efficient soft
   *Janana Sarita Jr. College*
   *2015-2017*
 
-### SKILLS
-- HTML
-- CSS
-- JavaScript
-- Blazor
-- Bootstrap
-- Git
-- Figma
-- SQL
-- C#
+## SKILLS
+|-------------|-------------|
+| HTML        | Blazor      |
+| CSS         | Bootstrap   |
+| JavaScript  | Git         |
+| Figma       | SQL         |
+| C#          |             |
+
 
 ### CERTIFICATIONS
 - Responsive Web Development Developer Certification, issued by FreeCodeCamp
