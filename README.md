@@ -28,7 +28,7 @@ Experienced Software Engineer skilled in designing and developing efficient soft
   *2015-2017*
 
 ## SKILLS
-|-|-|
+| Skill       | Skill       |
 |-------------|-------------|
 | HTML        | Blazor      |
 | CSS         | Bootstrap   |
