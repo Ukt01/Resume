@@ -26,15 +26,16 @@ Experienced Software Engineer skilled in designing and developing efficient soft
 - **HSC** <br>
   *Janana Sarita Jr. College* <br>
   *2015-2017*
-
 ## SKILLS
-| Skill       | Skill       |
-|-------------|-------------|
-| HTML        | Blazor      |
-| CSS         | Bootstrap   |
-| JavaScript  | Git         |
-| Figma       | SQL         |
-| C#          |             |
+- HTML
+- CSS
+- JavaScript
+- Blazor
+- Bootstrap
+- Git
+- Figma
+- SQL
+- C#
 
 
 ### CERTIFICATIONS
